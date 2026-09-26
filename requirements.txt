@@ -1,0 +1,22 @@
+# Core dependencies
+pandas
+numpy
+scikit-learn
+faiss-cpu
+transformers
+sentence-transformers
+torch
+mlflow
+
+# API/backend
+fastapi
+uvicorn
+pydantic
+
+# Notebook/dev
+jupyter
+pytest
+
+# Optional utilities
+tqdm
+python-dotenv
